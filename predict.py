@@ -8,7 +8,7 @@ batch_size = 32
 img_height = 180
 img_width = 180
 
-PREDICTION_FIlE = "predict_symbol.png"
+PREDICTION_FIlE = "fuel.jpeg"
 
 class_names = ['airbag_deactivated', 'airbag_indicator', 'antilock_brake', 'battery_charge', 'brake_fluid', 'door_ajar', 'engine_temperature', 'engine_warning', 'exhaust_fluid', 'fuel_filter', 'glow_plug', 'low_fuel', 'oil_pressure', 'seat_belt', 'security_alert', 'tire_pressure', 'traction_control', 'traction_control_malfunction', 'washer_fluid']
 
